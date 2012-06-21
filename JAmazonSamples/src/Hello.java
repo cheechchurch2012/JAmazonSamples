@@ -1,6 +1,6 @@
 public class Hello {
 	
-	// Improved
+	// Improved further
 	//System.out.println("Hello");
 
 }
